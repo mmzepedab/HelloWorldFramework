@@ -9,6 +9,6 @@ import Foundation
 
 public class HelloWorld {
     public static func sayHello() -> String {
-        return "Hello, World!"
+        return "Hey, World!"
     }
 }
