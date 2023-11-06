@@ -7,8 +7,6 @@
 
 #import <Foundation/Foundation.h>
 
-#import <HelloWorldFramework/HelloWorld.h>
-
 //! Project version number for HelloWorldFramework.
 FOUNDATION_EXPORT double HelloWorldFrameworkVersionNumber;
 
